@@ -248,7 +248,7 @@ export default function AotAttributeWordleAdvanced() {
   return (
     <div className="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center pt-6 pb-4 px-2 font-sans">
       <header className="mb-4 text-center">
-        <h1 className="text-3xl sm:text-4xl font-bold tracking-wider uppercase text-white">巨人推理</h1>
+        <h1 className="text-3xl sm:text-4xl font-bold tracking-wider uppercase text-white">AOTLE</h1>
         <p className="text-gray-400 mt-1">根據性別、陣營、特徵、登場篇章猜出角色</p>
       </header>
       
