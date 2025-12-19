@@ -200,7 +200,7 @@ export default function AotAttributeWordleAdvanced() {
   
   const shareResult = () => {
     const dayIndex = Math.floor((new Date() - new Date('2025-12-19')) / (1000 * 60 * 60 * 24));
-    const title = `巨人推理 #${dayIndex}`;
+    const title = `AOTLE #${dayIndex}`;
     const resultGrid = guesses
       .map(guess =>
         ATTRIBUTES_TO_COMPARE.map(attr => {
