@@ -111,7 +111,7 @@ const characterData = [
   { name: "賈碧‧布朗", gender: "女", affiliation: ["戰士隊"], attribute: ["艾爾迪亞"], firstAppearance: 7 },
 ];
 
-const MAX_GUESSES = 8;
+const MAX_GUESSES = 10;
 const ATTRIBUTES_TO_COMPARE = ['gender', 'affiliation', 'attribute', 'firstAppearance'];
 
 const getDailySolution = () => {
